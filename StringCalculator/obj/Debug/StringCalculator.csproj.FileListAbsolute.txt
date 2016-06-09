@@ -1,0 +1,7 @@
+C:\Users\vlaquale\documents\visual studio 2015\Projects\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csprojResolveAssemblyReference.cache
+C:\Users\vlaquale\documents\visual studio 2015\Projects\StringCalculator\StringCalculator\bin\Debug\StringCalculator.dll
+C:\Users\vlaquale\documents\visual studio 2015\Projects\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
+C:\Users\vlaquale\documents\visual studio 2015\Projects\StringCalculator\StringCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vlaquale\documents\visual studio 2015\Projects\StringCalculator\StringCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\vlaquale\documents\visual studio 2015\Projects\StringCalculator\StringCalculator\obj\Debug\StringCalculator.dll
+C:\Users\vlaquale\documents\visual studio 2015\Projects\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb
